@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/desktop-preview.jpg)
+![Desktop Preview](./images/desktop-preview.jpg)
+![Mobile Preview](./images/mobile-design.jpg)
 
 ### Links
 
