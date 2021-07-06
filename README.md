@@ -69,6 +69,6 @@ css
 
 ## Author
 
-- Website - [Sadiq Goni](http://goni-sadiq.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/sadiqgoni)
-- Twitter - [@yourusername](https://www.twitter.com/sadiqgonii)
+- Website - [sadiqgoni](http://goni-sadiq.netlify.app)
+- Frontend Mentor - [sadiqgoni](https://www.frontendmentor.io/profile/sadiqgoni)
+- Twitter - [sadiqgonii](https://www.twitter.com/sadiqgonii)
