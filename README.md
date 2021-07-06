@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Preview](./images/desktop-preview.jpg)
-![Mobile Preview](./images/mobile-design.jpg)
+Desktop Preview ![Desktop Preview](./images/desktop-preview.jpg)
+Mobile Preview ![Mobile Preview](./images/mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://3-column-preview-cardd.netlify.app)
+- Solution URL: [3-column-preview-card](http://3-column-preview-cardd.netlify.app)
 
 ## My process
 
